@@ -5,3 +5,4 @@
     content="Explore, rate, and share your favorite online shops ~ so you never miss out on the next amazing deal."
   />
 </svelte:head>
+
